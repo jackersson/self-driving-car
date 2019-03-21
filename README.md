@@ -5,9 +5,9 @@
 - [Course](https://stepik.org/course/401)
 
 
-git clone https://github.com/jackersson/self-driving-car.git
-cd self-driving-car
+      git clone https://github.com/jackersson/self-driving-car.git
+      cd self-driving-car
 
-virtualenv -p python3 venv
-source venv/bin/activate
-pip install -r requirements.txt
+      virtualenv -p python3 venv
+      source venv/bin/activate
+      pip install -r requirements.txt
